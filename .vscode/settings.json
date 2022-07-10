@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+    
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
